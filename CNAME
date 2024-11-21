@@ -1,0 +1,4 @@
+Type: CNAME
+Name: product
+Value: datto.github.io
+TTL: 3600
